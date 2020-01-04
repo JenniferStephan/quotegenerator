@@ -23,7 +23,7 @@ class QuoteAndAuthor extends React.Component {
           id="newquote"
           onClick={this.props.handleClick}
         >
-          New quote
+          Bûcher 🔥
         </button>
       </div>
     );
