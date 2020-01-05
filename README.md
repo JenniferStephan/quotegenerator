@@ -2,6 +2,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## To access to the simulator : https://quote-generator-miso.herokuapp.com/
 
+![Screenshot](1.png)
+
+![Screenshot](2.png)
+
 ## What's this ?
 
 For fun and to practice react.js while giving vent to my frustration of living in a lingering patriarchal atmosphere,  I created this simple quote generator. All the quotes are from well-known French litteratures icons.
