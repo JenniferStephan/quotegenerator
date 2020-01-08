@@ -62,6 +62,21 @@ const quotes=[
   }, {
   "quote": "Une femme qui exerce son intelligence devient laide, folle et guenon.",
   "author": "Pierre Joseph Proudhon"
+  }, {
+  "quote": "La femme est faite pour céder à l’homme et pour supporter même son injustice.",
+  "author": "Jean-Jacques ROUSSEAU"
+  }, {
+  "quote": "Une femme qui voterait les lois, discuterait le budget, administrerait les deniers publics, ne pourrait être qu’un homme.",
+  "author": "Charles NODIER"
+  }, {
+  "quote": "Nous ne comprenons pas plus une femme législatrice qu'un homme nourrice.",
+  "author": "Pierre Joseph PROUDHON"
+  }, {
+  "quote": "Il y a deux ans que je n'ai pas parle a ma femme, c'etait pour ne pas l'interrompre.",
+  "author": "Jules Renard"
+  }, {
+  "quote": "La chaine du mariage est si lourde qu'il faut etre deux pour la porter, souvent trois.",
+  "author": "Alexandre Dumas"
   }
 ]
 export default quotes
